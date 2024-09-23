@@ -1,5 +1,7 @@
 let x=()=>{
-    alert('You have clicked me.')
+    alert('You have clicked me.');
+    alert("new line added.");
+    alert("third line added.");
 }
 
 let btn=document.querySelector("Button");
